@@ -7,5 +7,6 @@
  */
 object Test extends App{
   println("hello")
+  println("hello2")
 
 }
